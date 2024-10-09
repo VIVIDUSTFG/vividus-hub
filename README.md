@@ -291,3 +291,6 @@ Para subir modelos a la plataforma, es necesario que el código fuente de cada u
 - **--rgb-list**, que proporciona la ruta del fichero de texto que contiene las rutas de las características de RGB.
 - **--audio-list**, que proporciona la ruta del fichero de texto que contiene las rutas de las características de audio.
 - **--output-path**, que proporciona la ruta en la que se debe escribir un archivo **'results.npy'** con el *array* ordenado de las predicciones realizadas.
+
+## Vídeo con la demo de VIVIDUS
+[Demo VIVIDUS](https://uses0-my.sharepoint.com/:v:/g/personal/alemeddur_alum_us_es/Ec6kAxqBa29AiQ6EOkRvYU4BSrkTmlzBk0_PBwOnks-LYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zBayHx)
