@@ -1,0 +1,36 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/VIVIDUSTFG/vividus-back
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/VIVIDUSTFG/vividus-front
+[submodule "kubernetes"]
+	path = kubernetes
+	url = https://github.com/VIVIDUSTFG/kubernetes
+[submodule "inference"]
+	path = inference
+	url = https://github.com/VIVIDUSTFG/inference
+[submodule "extractor"]
+	path = extractor
+	url = https://github.com/VIVIDUSTFG/extractor
+[submodule "datasets"]
+	path = datasets
+	url = https://github.com/VIVIDUSTFG/datasets
+[submodule "models/bn-wvad"]
+	path = models/bn-wvad
+	url = git@github.com:VIVIDUSTFG/bn-wvad.git
+[submodule "models/cma"]
+	path = models/cma
+	url = git@github.com:VIVIDUSTFG/cma.git
+[submodule "models/gcn"]
+	path = models/gcn
+	url = git@github.com:VIVIDUSTFG/gcn.git
+[submodule "models/hypervd"]
+	path = models/hypervd
+	url = git@github.com:VIVIDUSTFG/hypervd.git
+[submodule "models/macil-sd"]
+	path = models/macil-sd
+	url = git@github.com:VIVIDUSTFG/macil-sd.git
+[submodule "models/pel"]
+	path = models/pel
+	url = git@github.com:VIVIDUSTFG/pel.git
