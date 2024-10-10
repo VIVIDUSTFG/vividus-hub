@@ -293,4 +293,4 @@ Para subir modelos a la plataforma, es necesario que el código fuente de cada u
 - **--output-path**, que proporciona la ruta en la que se debe escribir un archivo **'results.npy'** con el *array* ordenado de las predicciones realizadas.
 
 ## Vídeo con la demo de VIVIDUS
-[Demo VIVIDUS](https://uses0-my.sharepoint.com/:v:/g/personal/alemeddur_alum_us_es/Ec6kAxqBa29AiQ6EOkRvYU4BSrkTmlzBk0_PBwOnks-LYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zBayHx)
+[Demo VIVIDUS](https://uses0-my.sharepoint.com/:v:/g/personal/alemeddur_alum_us_es/EfGTRFuXGYlBv5E5C3WYndMBP6F0trxZ3Sr6XTUcm9BErA?e=uKApfx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
